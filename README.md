@@ -26,4 +26,4 @@
 ---
 ## CRUD 
 
-# [MySQL Version](https://github.com/LeonardoJosedaSilveira/basic_crud_mysql)
+# [MySQL](https://github.com/LeonardoJosedaSilveira/basic_crud_mysql)
