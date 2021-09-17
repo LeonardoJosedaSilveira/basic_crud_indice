@@ -1,29 +1,29 @@
 # basic_crud_indice
 
-Este repositorio tem como intuito listar os cruds basicos feitos para treino e estudos.
+> This repository aims to list the basic CRUD'S made for training and studies.
 
 ---
 
-## Caso de estudo
+### Case study
 
-Uma pessoa tem alguns livros em casa e empresta para seus amigos e quer um software para controlar os emprestimos.
-
----
-
-## Regras de negocio
-
-1 - email do usuario deve ser unico.
-
-2 - o livro sera emprestado por 7 dias.
-
-3 - renovação de emprestimo por 3 dias.
+> A person has some books at home and lends them to friends and wants software to manage loans.
 
 ---
 
-## Diagrama do banco
+### Business rules
+
+> 1 - User email must be unique.
+> 
+> 2 - The book will be borrowed for 7 days.
+> 
+> 3 - Loan renewal for 3 days.
+
+---
+
+## Bank diagram
 ![Diagrama](./img/library.png)
 
 ---
 ## CRUD 
 
-# [Versão em MYSQL](https://github.com/LeonardoJosedaSilveira/basic_crud_mysql)
+# [MySQL Version](https://github.com/LeonardoJosedaSilveira/basic_crud_mysql)
