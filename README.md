@@ -4,10 +4,13 @@
 
 ---
 
+## CRUD 
+
+# [MySQL](https://github.com/LeonardoJosedaSilveira/basic_crud_mysql)
+
 ### Case study
 
 > A person has some books at home and lends them to friends and wants software to manage loans.
-
 ---
 
 ### Business rules
@@ -23,7 +26,3 @@
 ## Bank diagram
 ![Diagrama](./img/library.png)
 
----
-## CRUD 
-
-# [MySQL](https://github.com/LeonardoJosedaSilveira/basic_crud_mysql)
